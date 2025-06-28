@@ -3,6 +3,7 @@
 A simple, responsive landing page built with HTML, CSS, and JavaScript. It features a two-column layout with promotional content and a styled sign-up form that validates input before submission.
 
 ![Preview](o1.png)
+o2.png
 
 ## ✨ Features
 
