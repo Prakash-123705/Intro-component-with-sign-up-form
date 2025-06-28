@@ -14,7 +14,7 @@ A simple, responsive landing page built with HTML, CSS, and JavaScript. It featu
 - 🧠 Beginner-friendly codebase
 
 ##Live Demo
-🔗 https://your-username.github.io/your-repo-name
+🔗 https://prakash-123705.github.io/Intro-component-with-sign-up-form/
 
 ## 🚀 How It Works
 
